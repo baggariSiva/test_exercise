@@ -1,5 +1,5 @@
 import React from "react";
-import "./components/App.css";
+import "./App.css";
 import {inject, IWrappedComponent, observer} from "mobx-react";
 import {CounterStore} from "./counterStore";
 
